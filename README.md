@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ruby: performing arithmetic operations on strings.  The `bug.rb` file contains code that leads to a `TypeError`.  The `bugSolution.rb` file shows how to handle this using type checking and error handling.
